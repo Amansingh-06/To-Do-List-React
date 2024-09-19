@@ -23,7 +23,7 @@ This is a simple To-Do List application built using React. It allows users to ad
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/To-Do-List-react-.git
+   git clone https://github.com/your-username/To-Do-List-React-.git
 
 ├── src
 │   ├── components      # React components (Header, ToDoList, ToDoItem)
